@@ -2,7 +2,7 @@ package postgres
 
 import (
 	"context"
-	"github.com/mostafanoorpur/aban-task/internal/order"
+	"github.com/mostafanoorpur/order-sample/internal/order"
 	"gorm.io/gorm"
 )
 

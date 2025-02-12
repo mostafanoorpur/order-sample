@@ -1,4 +1,4 @@
-module github.com/mostafanoorpur/aban-task
+module github.com/mostafanoorpur/order-sample
 
 go 1.23.0
 

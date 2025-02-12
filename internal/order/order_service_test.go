@@ -3,7 +3,7 @@ package order_test
 import (
 	"context"
 	"errors"
-	"github.com/mostafanoorpur/aban-task/internal/order"
+	"github.com/mostafanoorpur/order-sample/internal/order"
 	"github.com/shopspring/decimal"
 	"github.com/stretchr/testify/assert"
 	"testing"

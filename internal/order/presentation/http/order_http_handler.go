@@ -3,8 +3,8 @@ package http
 import (
 	"errors"
 	"github.com/labstack/echo/v4"
-	"github.com/mostafanoorpur/aban-task/internal/httputil"
-	"github.com/mostafanoorpur/aban-task/internal/order"
+	"github.com/mostafanoorpur/order-sample/internal/httputil"
+	"github.com/mostafanoorpur/order-sample/internal/order"
 	"github.com/shopspring/decimal"
 	"net/http"
 )

@@ -1,7 +1,7 @@
 package postgres
 
 import (
-	"github.com/mostafanoorpur/aban-task/internal/order"
+	"github.com/mostafanoorpur/order-sample/internal/order"
 	"github.com/shopspring/decimal"
 	"time"
 )

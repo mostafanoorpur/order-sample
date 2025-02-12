@@ -3,7 +3,7 @@ package http
 import (
 	"context"
 	"github.com/labstack/echo/v4"
-	"github.com/mostafanoorpur/aban-task/internal/order"
+	"github.com/mostafanoorpur/order-sample/internal/order"
 )
 
 type orderService interface {
